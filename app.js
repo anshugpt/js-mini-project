@@ -18,3 +18,7 @@ btn.addEventListener("click", function(event){
 
 // TODO --> look at event.target
 // TODO --> Make this todo app more nice, add more feature
+
+//TODO ->> Making Simon says game
+
+
