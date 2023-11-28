@@ -28,7 +28,7 @@ body {
    background-color: rgb(233, 5, 130); 
 }
 .green {
-    background-color: rgb(57, 167, 57);
+    background-color: rgb(103, 167, 103);
 }
 .purple {
     background-color: rgb(167, 65, 208)
@@ -36,4 +36,12 @@ body {
 
 .flash {
     background-color: white;
+}
+
+.userFlash{
+    background-color: green;
+}
+
+.gameOver{
+    background-color: red;
 }
